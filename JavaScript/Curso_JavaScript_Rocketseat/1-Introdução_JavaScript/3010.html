@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Curso JavaScript</title>
+	</head>
+	<body>
+		<script>
+			var usuarios = [
+			{
+				nome: "Diego",
+				habilidades: ["JavaScript", "ReactJS", "Redux"]
+			},
+			{nome: "Gabriel", habilidades: ["VueJs", "Ruby on Rails", "Elixir"]}
+			];
+
+			const showMessage = usuarios => {
+				for (const user of usuarios) {
+					const {nome, habilidades} = user;
+					console.log(`O ${nome} possui as habilidades: ${habilidades.join(", ")}`);
+				}
+			};
+		</script>
+	</body>
+</html>

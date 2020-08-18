@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Curso JavaScript - Aula 3 - Lidando com Elementos</title>
+</head>
+<body>
+	<div id="app">
+		<input id="nome">
+	</div>
+
+	<!-- <a href="https://rocketseat.com.br">Acessar site da Rocketseat</a> -->
+
+	<script>
+		var linkElement = document.createElement('a');
+
+		linkElement.setAttribute('href', 'https://rocketseat.com.br');
+		// linkElement.setAttribute('title', 'Site da Rocketseat');
+
+		var textElement = document.createTextNode('Acessar site da Rocketseat');
+		linkElement.appendChild(textElement);
+
+		var containerElement = document.querySelector('#app');
+		containerElement.appendChild(linkElement);
+
+		var inputElement = document.querySelector('#nome');
+		containerElement.removeChild(inputElement);
+	</script>
+
+</body>
+</html>

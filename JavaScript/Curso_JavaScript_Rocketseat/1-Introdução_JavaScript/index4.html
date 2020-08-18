@@ -1,0 +1,34 @@
+<html>
+	<head>
+        <meta charset="UTF-8">
+		<title>Curso JavaScript - Aula 4 - Condicionais</title>
+	</head>
+	<body>
+		<script>
+			function retornaSexo(sexo) {
+			// M, F
+			// Masculino, Feminino
+
+			// 	if (sexo === 'M') {
+			// 		return 'Masculino';
+			// 	} else if (sexo === 'F') {
+			// 		return 'Feminino';
+			// 	} else {
+			// 		return 'Outro';
+			// 	} // = recebe / == igual / === verifica se o tipo das variáveis é igual
+
+				switch (sexo) {
+					case 'M':
+						return 'Masculino';
+					case 'F':
+						return 'Feminino';
+					default:
+						return 'Outro';
+				}
+			}
+
+			var resultado = retornaSexo('M');
+			console.log(resultado);
+		</script>
+	</body>
+</html>
