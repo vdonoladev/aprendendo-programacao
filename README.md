@@ -10,6 +10,6 @@ Repository with several contents about Programming
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript_Rocketseat">JavaScript Starter Rocketseat</a>
 
-<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript_Rocketseat/Solu%C3%A7%C3%A3o_dos_Exerc%C3%ADcios-Rocketseat">Exercícios</a>
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript%26TypeScript">Curso JavaScript e TypeScript</a>
 
 <p>Dentro de cada pasta, existe os respectivos desafios (exercícios)</p>
