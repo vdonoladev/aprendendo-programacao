@@ -1,5 +1,3 @@
-Repository with several contents about Programming
-
 <h2>Python</h2>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Programa%C3%A7%C3%A3o_em_Python_Essencial">Programação em Python: Essencial</a>
