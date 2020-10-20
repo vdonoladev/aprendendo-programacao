@@ -15,3 +15,5 @@
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP/Curso%20Completo%20de%20PHP%207">Curso Completo de PHP 7</a>
 
 <p>Dentro de cada pasta, existe os respectivos desafios (exercícios)</p>
+
+Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
