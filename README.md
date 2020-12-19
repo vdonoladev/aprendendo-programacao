@@ -4,7 +4,7 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Exerc%C3%ADcios_Python">Exercícios</a>
 
----
+
 
 <h2>JavaScript</h2>
 
@@ -12,13 +12,23 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript%26TypeScript">Curso JavaScript e TypeScript</a>
 
----
+
 
 <h2>PHP</h2>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP/Curso%20Completo%20de%20PHP%207">Curso Completo de PHP 7</a>
 
 <p>Dentro de cada pasta, existe os respectivos desafios (exercícios)</p>
+
+
+
+h2>Discover Rocketseat</h2
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20HTML">O guia estelar de HTML</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20CSS">O guia estelar de CSS</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20Git">O guia estelar de Git</a>
 
 ---
 
