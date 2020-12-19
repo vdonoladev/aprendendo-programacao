@@ -22,7 +22,7 @@
 
 
 
-h2>Discover Rocketseat</h2
+<h2>Discover Rocketseat</h2>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20HTML">O guia estelar de HTML</a>
 
