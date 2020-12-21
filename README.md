@@ -30,6 +30,8 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20Git">O guia estelar de Git</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20JavaScript">O guia estelar de JavaScript</a>
+
 ---
 
 Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
