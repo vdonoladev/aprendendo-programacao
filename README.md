@@ -32,6 +32,12 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20JavaScript">O guia estelar de JavaScript</a>
 
+
+
+<h2>Digital Innovation One</h2>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial">JavaScript ES6 essencial</a>
+
 ---
 
 Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
