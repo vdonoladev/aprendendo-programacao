@@ -1,3 +1,5 @@
+<h1>Aprendendo Programação</h1>
+
 <h2>Python</h2>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Programa%C3%A7%C3%A3o_em_Python_Essencial">Programação em Python: Essencial</a>
@@ -17,8 +19,6 @@
 <h2>PHP</h2>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP/Curso%20Completo%20de%20PHP%207">Curso Completo de PHP 7</a>
-
-<p>Dentro de cada pasta, existe os respectivos desafios (exercícios)</p>
 
 
 
