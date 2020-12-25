@@ -38,6 +38,8 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial">JavaScript ES6 essencial</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Desenvolvimento%20Avan%C3%A7ado%20Python%20-%20Flask%20e%20REST%20API">Desenvolvimento Avançado Python - Flask e REST API</a>
+
 ---
 
 Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
