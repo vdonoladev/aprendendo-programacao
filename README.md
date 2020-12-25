@@ -42,6 +42,22 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Internet%2C%20Banco%20de%20Dados%20com%20Python%20e%20Django">Internet, Banco de Dados com Python e Django</a>
 
+
+
+<h2>Learn X in Y Minutes</h2>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/HTML">HTML</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/CSS">CSS</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/JavaScript">JavaScript</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Markdown">Markdown</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Nota%C3%A7%C3%A3o%20Assint%C3%B3tica">Notação Assintótica</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Programa%C3%A7%C3%A3o%20Din%C3%A2mica">Programação Dinâmica</a>
+
 ---
 
 Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
