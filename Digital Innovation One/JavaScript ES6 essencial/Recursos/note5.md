@@ -45,7 +45,7 @@ console.log(Animal.constructor)
 // Entenda o porque na imagem abaixo
 ```
 
-![./note5/Untitled.png](./note5/Untitled.png)
+![./note5/Untitled.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled.png)
 
 ```jsx
 function Animal(){
@@ -212,27 +212,27 @@ String.prototype.split = function() {console.log('tudo nosso, perdeu playboy...'
 - palavra chave **class**
 - açúcar sintático das funções
 
-![./note5/Untitled%201.png](./note5/Untitled%201.png)
+![./note5/Untitled%201.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled%201.png)
 
-![./note5/Untitled%202.png](./note5/Untitled%202.png)
+![./note5/Untitled%202.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled%202.png)
 
 ## Modificadores de acesso
 
 - JavaScript ainda não possui
 - Conhecendo um pouco de como funciona no NodeJS:
 
-    ![./note5/Untitled%203.png](./note5/Untitled%203.png)
+    ![./note5/Untitled%203.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled%203.png)
 
 - Como é na versão 12 do JS:
 
-    ![./note5/Untitled%204.png](./note5/Untitled%204.png)
+    ![./note5/Untitled%204.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled%204.png)
 
 ## Encapsulamento
 
-![./note5/Untitled%205.png](./note5/Untitled%205.png)
+![./note5/Untitled%205.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled%205.png)
 
 ## Static
 
 - acessar métodos/atributos sem instanciar uma classe.
 
-    ![./note5/Untitled%206.png](./note5/Untitled%206.png)
+    ![./note5/Untitled%206.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note5/Untitled%206.png)

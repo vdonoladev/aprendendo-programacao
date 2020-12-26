@@ -14,11 +14,11 @@ Comitê Técnico 39 (TC39). Este comitê é composto por especialistas de grande
 
 Quaisquer alterações na linguagem seguem um processo de maturidade de 5 estágios, vamos a eles:
 
-- Estágio zero, **rascunho(strawman)**: Simplesmente o envio de propostas, estas devem ser feitas por algum membro do TC-39, ou algum contribuidor. Em seguida devem ser discutidas em alguma reunião, e então adicionadas a essa página:
-- Estágio um, **proposta (proposal)**: Nessa etapa um membro do TC-39 é escolhido como responsável por essa proposta (***champion***). O problema que será resolvido por essa proposta deve ser descrito, há tambem a necessidade de mostrar uma API, ilustração de exemplos e discutir sobre os aspectos principais do algoritmo dessa proposta.
-- Estágio dois, **esboço (draft)**: Nessa etapa a especificação da proposta deve estar completa e um exemplo deve ser formalmente descrito usando Javascript. Duas implementações da propostas são necessarias, porém uma delas pode usar transpiladores (ex.: Babel).
-- Estágio três, **candidata (candidate)**: A especifição da proposta é revisada por dois membros do TC-39 e então assinada por estes dois revisores mais o campeão responsável. Nessa etapa é entendido que todo o trabalho possível foi feito e que será necessário feedbacks dos usuários. Ao menos dois navegadores devem conter alguma implementação (não ativada por padrão) compatível com a especificação.
-- Estágio quatro, **finalizada (finished)**: A proposta está pronta para entrar formalmente como uma especificação do Javascript. Nessa etapa todos os requisitos foram atendidos e os testes de aceitação devem ser mergeados com o repositório de testes de aceitação do Javascript.
+- Estágio zero, **rascunho(strawman)**: Simplesmente o envio de propostas, estas devem ser feitas por algum membro do TC-39, ou algum contribuidor. Em seguida devem ser discutidas em alguma reunião, e então adicionadas a essa página:
+- Estágio um, **proposta (proposal)**: Nessa etapa um membro do TC-39 é escolhido como responsável por essa proposta (***champion***). O problema que será resolvido por essa proposta deve ser descrito, há tambem a necessidade de mostrar uma API, ilustração de exemplos e discutir sobre os aspectos principais do algoritmo dessa proposta.
+- Estágio dois, **esboço (draft)**: Nessa etapa a especificação da proposta deve estar completa e um exemplo deve ser formalmente descrito usando Javascript. Duas implementações da propostas são necessarias, porém uma delas pode usar transpiladores (ex.: Babel).
+- Estágio três, **candidata (candidate)**: A especifição da proposta é revisada por dois membros do TC-39 e então assinada por estes dois revisores mais o campeão responsável. Nessa etapa é entendido que todo o trabalho possível foi feito e que será necessário feedbacks dos usuários. Ao menos dois navegadores devem conter alguma implementação (não ativada por padrão) compatível com a especificação.
+- Estágio quatro, **finalizada (finished)**: A proposta está pronta para entrar formalmente como uma especificação do Javascript. Nessa etapa todos os requisitos foram atendidos e os testes de aceitação devem ser mergeados com o repositório de testes de aceitação do Javascript.
 
 ## Linguagem interpretada
 
@@ -48,7 +48,7 @@ console.log(minhaVariavel);
 
 TypeScript é uma linguagem criada pela Microsoft e nada mais é que um superset do ECMAScript 6 que, por sua vez, é um superset do ECMAScript 5, que usamos mais frequentemente como base para nosso clássico JavaScript. Isso significa que praticamente qualquer código JavaScript é também um código TypeScript
 
-![./note1/Untitled.png](./note1/Untitled.png)
+![./note1/Untitled.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note1/Untitled.png)
 
 ## Funções de primeira classe e ordem maior
 
@@ -72,9 +72,9 @@ Closure é quando uma função é capaz de "lembrar" e acessar seu escopo léxic
 
 ## **Sobre o escopo léxico**
 
-Para ficar claro o entendimento de *closure*, é importante saber alguns aspectos do escopo léxico. Claro, se você já sabe do que se trata, pode pular esta parte.
+Para ficar claro o entendimento de *closure*, é importante saber alguns aspectos do escopo léxico. Claro, se você já sabe do que se trata, pode pular esta parte.
 
-O escopo léxico é baseado nas variáveis e blocos de escopo definidos, por você, em tempo de escrita do código. Logo, ele é **definido em** **tempo de compilação**… pelo menos na maioria das vezes. Aqui, eu digo na maioria das vezes pois existem formas de 'burlar' esse escopo, como por exemplo, injetando código com declarações de variáveis de forma dinâmica*.
+O escopo léxico é baseado nas variáveis e blocos de escopo definidos, por você, em tempo de escrita do código. Logo, ele é **definido em** **tempo de compilação**… pelo menos na maioria das vezes. Aqui, eu digo na maioria das vezes pois existem formas de 'burlar' esse escopo, como por exemplo, injetando código com declarações de variáveis de forma dinâmica*.
 
 Closure é a forma de fazer com que as variáveis dentro de uma função sejam privadas e persistentes.
 

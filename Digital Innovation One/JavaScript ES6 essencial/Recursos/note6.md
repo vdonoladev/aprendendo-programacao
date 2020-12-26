@@ -4,7 +4,7 @@
 
 Design Patterns ou padrões de projetos são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. Não se trata de um framework ou um código pronto, mas de uma definição de alto nível de como um problema comum pode ser solucionado.
 
-![./note6/Untitled.png](./note6/Untitled.png)
+![./note6/Untitled.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note6/Untitled.png)
 
 ### A Pattern Language (livro)
 
@@ -22,9 +22,9 @@ Design Patterns ou padrões de projetos são soluções generalistas para proble
 
 ---
 
-![./note6/Untitled%201.png](./note6/Untitled%201.png)
+![./note6/Untitled%201.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note6/Untitled%201.png)
 
-![./note6/Untitled%202.png](./note6/Untitled%202.png)
+![./note6/Untitled%202.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note6/Untitled%202.png)
 
 ### Using Pattern Languages for Object-Oriented Programs
 
@@ -34,7 +34,7 @@ Design Patterns ou padrões de projetos são soluções generalistas para proble
 
 ---
 
-![./note6/Untitled%203.png](./note6/Untitled%203.png)
+![./note6/Untitled%203.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note6/Untitled%203.png)
 
 ### Design Patterns: Elements of Reusable Object-Oriented
 Software
@@ -42,7 +42,7 @@ Software
 - 1994
 - Gang of four (GoF)
 
-![./note6/Untitled%204.png](./note6/Untitled%204.png)
+![./note6/Untitled%204.png](https://github.com/vdonoladev/aprendendo-programacao/blob/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial/Recursos/note6/Untitled%204.png)
 
 - Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides
 - Tipos de design pattern → Criação, Estruturais e Comportamentais.
