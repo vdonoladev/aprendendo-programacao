@@ -37,7 +37,7 @@ O Product Owner (PO) representa o profissional que tem a visão do que será des
 
 ##### Release Planning de Múltiplas Squads
 
-Vários times de desenvolvimento realizado atividades que podem um não estar relacionadas e que ao final da Sprint serão agrupadas em uma única Release.
+Vários times de desenvolvimento realizado atividades que podem ou não estar relacionadas e que ao final da Sprint serão agrupadas em uma única Release.
 
 ##### Release Planning de Projeto
 
@@ -67,7 +67,7 @@ Resposta: C
 
 **2) Qual o papel do PO dentro do Time?**
 
-a) Ajuda o Time da entender a demanda e tira as dúvidas ao longo da Sprint
+a) Ajuda o Time a entender a demanda e tira as dúvidas ao longo da Sprint
 
 b) Coordena as pessoas do Time e acompanha suas atividades
 
