@@ -9,7 +9,7 @@ Uma forma eficiente de definir o escopo corretamente é inverter a ordem e come�
 
 #### Épicos (Epic)
 
-Incremento sem muito detalhamento, ajuda a te direcioanr dos caminhos que deve seguir.
+Incremento sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir.
 
 #### História (User Stories)
 
