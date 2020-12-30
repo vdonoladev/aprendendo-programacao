@@ -42,6 +42,8 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Internet%2C%20Banco%20de%20Dados%20com%20Python%20e%20Django">Internet, Banco de Dados com Python e Django</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Projetos%20%C3%A1geis%20com%20SCRUM">Projetos ágeis com SCRUM</a>
+
 
 
 <h2>Learn X in Y Minutes</h2>
