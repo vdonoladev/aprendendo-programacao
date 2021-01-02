@@ -1,5 +1,8 @@
 <?php
 
+/* Seção 3 - Conhecendo a Linguagem PHP
+Aula 19 - Incluindo arquivos com Include e Require */
+
 // include 'aula19.php';
 
 require 'aula19.php';
