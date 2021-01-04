@@ -60,6 +60,24 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Programa%C3%A7%C3%A3o%20Din%C3%A2mica">Programação Dinâmica</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Bash">Bash</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/C%23">C#</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Git">Git</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/JSON">JSON</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/PHP">PHP</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Python">Python</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Tmux">Tmux</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/TypeScript">TypeScript</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Vim">Vim</a>
+
 ---
 
 Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
