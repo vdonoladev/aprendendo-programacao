@@ -1,0 +1,15 @@
+{
+    "name": "hcode/composer",
+    "description": "Aula de PHP 7",
+    "type": "project",
+    "authors": [
+    	{
+    		"name": "Richard Lopes",
+    		"email": "richardxlopes@gmail.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog": "1.0.*"
+    }
+}
