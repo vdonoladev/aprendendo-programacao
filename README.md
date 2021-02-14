@@ -1,28 +1,58 @@
-<h1>Aprendendo Programação</h1>
+<h2 align="center">aprendendo-programacao</h2>
 
-<h2>Python</h2>
+<p align="center">
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+</p>
+___
+
+<h3 align="center">
+  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#books-atividades">Atividades</a>&nbsp;|&nbsp;
+  <a href="#licença">Licença</a>
+</h3>
+
+## :information_source: Sobre
+
+Repositório com anotações e exercícios em programação
+
+## :interrobang: Motivo
+
+Um lugar para guardar todas as minhas anotações e exercícios/códigos
+
+## :rocket: Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+- HTML
+- CSS
+- Python
+- PHP
+- JavaScript
+- Shell Script
+
+## :books: Atividades
+
+<h3>Python</h3>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Programa%C3%A7%C3%A3o_em_Python_Essencial">Programação em Python: Essencial</a>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Exerc%C3%ADcios_Python">Exercícios</a>
 
-
-
-<h2>JavaScript</h2>
+<h3>JavaScript</h3>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript_Rocketseat">JavaScript Starter Rocketseat</a>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript%26TypeScript">Curso JavaScript e TypeScript</a>
 
-
-
-<h2>PHP</h2>
+<h3>PHP</h3>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP/Curso%20Completo%20de%20PHP%207">Curso Completo de PHP 7</a>
 
-
-
-<h2>Rocketseat - Discover</h2>
+<h3>Rocketseat - Discover</h3>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20HTML">O guia estelar de HTML</a>
 
@@ -32,9 +62,7 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/O%20guia%20estelar%20de%20JavaScript">O guia estelar de JavaScript</a>
 
-
-
-<h2>Digital Innovation One</h2>
+<h3>Digital Innovation One</h3>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/JavaScript%20ES6%20essencial">JavaScript ES6 essencial</a>
 
@@ -46,9 +74,7 @@
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Fundamentos%20de%20Arquitetura%20de%20Sistemas">Fundamentos de Arquitetura de Sistemas</a>
 
-
-
-<h2>Learn X in Y Minutes</h2>
+<h3>Learn X in Y Minutes</h3>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/HTML">HTML</a>
 
@@ -79,6 +105,10 @@
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/TypeScript">TypeScript</a>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes/Vim">Vim</a>
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
