@@ -1,7 +1,7 @@
 // Arrow function
 
-const sayMyName = () => {
-	console.log('Víctor');
+const sayMyName = (name) => {
+	console.log(name);
 }
 
-sayMyName();
+sayMyName('Víctor');
