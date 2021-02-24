@@ -114,6 +114,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Devaria/Infraestrutura">Infraestrutura</a>
 
+<h3>Dicas e Textos</h3>
+
+
+
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
