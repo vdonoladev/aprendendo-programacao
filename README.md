@@ -116,7 +116,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <h3>Dicas e Textos</h3>
 
+<p>Aqui ficarão todos as dicas e textos relevantes para a nossa e demais áreas.</p>
 
+<p>Todos os textos estavam no meu Notion e não são de minha autoria.</p>
 
 ## Licença
 
