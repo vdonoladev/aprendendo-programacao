@@ -1,0 +1,15 @@
+Muitas das motivações habituais para fazer amigos – apoio emocional, validação social, rotina compartilhada – simplesmente não se aplicam aos lógicos. Mais provavelmente, esses conceitos são recebidos com desdém, como pessoas com o tipo de personalidade lógica valorizam a profundidade intelectual acima de tudo. Não é fácil se tornar um bom amigo dos lógicos, mas se há um interesse comum e uma linha de pensamento comum, a conexão provavelmente brilhará instantaneamente, surpreendendo todos os outros que pensavam ter esse tipo de personalidade distante.
+
+## Seja lento para cair na amizade...
+
+Amizades lógicas são baseadas no conhecimento, definidas pela troca de ideias, teorias e conceitos, e aqueles que não são capazes de acompanhar isso, ou que têm gostos bem diferentes (não falem com lógicos sobre celebridades) encontrarão rostos pedregosos que beiram o rude. Para os lógicos, a comunicação é muitas vezes mais um incômodo do que um prazer, e a conversa é reservada para tópicos que eles acham significativos, ou para pessoas que eles já gostam o suficiente para aguentar.
+
+> A menos que haja uma afinidade natural por esse estilo intelectual, poucos têm paciência para tentar penetrar em seus escudos, e os lógicos ficam com um pequeno círculo de bons amigos.
+
+Outras personalidades de Analistas são um ajuste natural para os lógicos, que compartilham sua paixão por novas ideias, enigmas e soluções. Pessoas com o tipo de personalidade lógica são conhecedas e inteligentes, e têm muito respeito por aqueles que podem mantê-los em seus dedo do pé a esse respeito. Eles ajudarão com prazer a enfrentar qualquer dilema jogado em seu caminho, oferecendo conselhos sólidos e soluções racionais. Por mais valiosas que sejam essas qualidades, nem sempre são a melhor abordagem – quando se trata de apoio emocional ou conselhos para lidar com assuntos do coração, os lógicos estão perdidos.
+
+Não é que as personalidades lógicas não sintam – muito pelo contrário, elas realmente têm sentimentos muito fortes. Mas este não é o seu terno mais forte, tornando as reações emocionais dos lógicos fortes, não confiáveis e naturalmente precisando ser temperada por sua lógica e racionalismo bem treinados.
+
+## ... Mas quando em amizade, continuar firme e constante
+
+Embora eles possam não ser capazes de ajudar diretamente com esses tipos de problemas, os lógicos ajudam indiretamente com amizades inequívocas e confiáveis. Os amigos dos lógicos nunca precisam se preocupar com jogos de poder ou bagagem emocional – eles são apreciados por suas mentes e habilidades, não por seu status ou posses. Embora não seja fácil estabelecer verdadeiras amizades com personalidades lógicas, uma vez que o vínculo é feito, eles fornecerão anos de compreensão e ideias estimulantes do pensamento, fazendo-as valer a pena o esforço.

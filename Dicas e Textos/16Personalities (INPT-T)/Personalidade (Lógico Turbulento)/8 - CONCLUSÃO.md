@@ -1,0 +1,11 @@
+Armados com um poderoso intelecto e imaginação vívida, os lógicos podem superar ou superar obstáculos que parecem imbatíveis para a maioria. Ao mesmo tempo, suas muitas peculiaridades, como o racionalismo muitas vezes sem restrições, levam a muitos mal-entendidos. Esses mal-entendidos terminam aqui. O que você leu até agora é apenas uma introdução – temos muito mais para contar sobre o tipo de personalidade lógica.
+
+Em algum momento na leitura de seus resultados, você provavelmente atingiu um ponto de inflexão. Você passou da marca lógico ceticismo para "huh..." para "esperar, o quê?" Você pode até estar um pouco desconfortável porque você realmente não está acostumado a ser compreendido, mesmo pelas pessoas mais próximas.
+
+As chances são de que você aceitou isso como parte de quem você é, e talvez até se orgulhe disso. Mas abraçar essa desconexão não é um requisito para os lógicos. É um mecanismo de defesa mal utilizado, levando você a um caminho solitário e ineficiente – obter uma visão de si mesmo e dos outros é muito mais gratificante.
+
+Isso não é um truque de data de nascimento, e não, nós não te espionamos – pelo contrário, passamos anos estudando histórias de vida, experiências e padrões de logicianos em centenas de nossas pesquisas. Passo a passo, insight por insight, descobrimos como aqueles que compartilham suas qualidades e perspectivas superaram os desafios que enfrentaram. Você é um indivíduo único, mas não está sozinho nisso. É sábio aprender com as experiências dos outros – e gostaríamos muito de compartilhar esses insights com você.
+
+À medida que você avança para os e-books e cursos interativos que oferecemos, vamos muito mais fundo na mente lógica. Nós respondemos não apenas "o quê", mas "por quê?", "como?" e "e se?" Por que você age como você faz? Como você encontra motivação e inspiração? E se você fosse além do medo para perseguir o que secretamente quer alcançar na vida?
+
+Podemos mostrar como usar seus pontos fortes para desbloquear seu potencial excepcional e evitar armadilhas comuns, ao mesmo tempo em que permanecemos fiéis a quem você é – afinal, esse é o ponto. Para ver como você pode crescer para ser a pessoa que você conhece que é capaz de ser, de maneiras que finalmente se sentem certas – continue, Logician.
