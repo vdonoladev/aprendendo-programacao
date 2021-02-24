@@ -1,0 +1,1 @@
+Se o seu código não está claro de se ler, isto significa que a resolução do problema também não está clara na sua mente. Outro sinal importante que demonstra qualidade em um código é quando você não somente consegue escalar uma aplicação adicionando novas features, mas principalmente quando consegue remover e modificar features com facilidade.

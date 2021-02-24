@@ -1,0 +1,3 @@
+Todo bug é uma surpresa. Em alguns casos, parece que o desenvolvedor não percebe que está plantando surpresas ou até mesmo gosta de plantar surpresas para reduzir a quantidade de código que irá digitar.
+
+Há uma grande diferença entre "não teremos problema, pois não consigo imaginar o que pode dar de errado..." de algo como "eu consigo sim imaginar todas as variáveis envolvidas no presente e no futuro e não vai dar errado".

@@ -1,0 +1,5 @@
+Você faz a comida na cozinha, mas come ela na mesa da sala, correto? Bom, você pode até comer na cozinha e aproveitar para beber diretamente da garrafa, pois neste contexto funciona, mas num contexto de um restaurante, você não vai pedir para os clientes comerem na cozinha ou beberem da garrafa.
+
+Apesar de muita gente entender o conceito de separar responsabilidades, principalmente quando se trata MVC, não possuem a disciplina necessária para respeitar. Estas pessoas acabam gerenciando um restaurante onde os clientes comem na cozinha e bebem diretamente da garrafa, porque está mais na mão, mais prático, é como por exemplo, colocar tudo no controller.
+
+No design de MVC, entenda que a View é o cardápio, o Controller é o garçom e o Model é o chef. A View apresenta os pratos disponíveis, o Controller leva qual prato deve ser feito ao Model e ele o prepara, pois é o único que possui a receita e sabe fazer.

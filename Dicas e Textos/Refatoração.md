@@ -1,0 +1,7 @@
+Colocar features novas sem investir também em refatoração é como colocar banco de couro em um carro antigo que só dá manutenção.
+
+Você publicaria um artigo sem fazer a revisão? Ou seja, a primeira versão é a que vai ficar para sempre? É engraçado, pois quando se trata de texto é inaceitável. Você sabe que se ler o texto mais para frente, com um conhecimento maior sobre o assunto que está desenvolvendo, você irá lapidar, reordenar e melhorar muito o resultado.
+
+Então deixar textos sem reavaliações é inaceitável, correto? Bom, você não tem noção como isto é comum quando se trata de código. Pelo fato das pessoas ainda não entenderem que esta mesma dinâmica se aplica a desenvolvimento, elas não se organizam para incluir isto no processo, muito menos no planejamento de recursos, elas sabem apenas adicionar novas features. Já presenciei diversas vezes injeção de recursos em features que ninguém iria utilizar, do que refatorar partes do core business que criariam um salto nos resultados e velocidade de produção. Mas convenhamos, novas features parece sempre ser mais excitante para todo mundo.
+
+Não se esqueça que um código, diferente de um artigo, é algo vivo, com comportamento, saúde e idade. É necessário cuidar da saúde do seu código sempre que puder para não pagar um preço ainda mais caro no futuro.
