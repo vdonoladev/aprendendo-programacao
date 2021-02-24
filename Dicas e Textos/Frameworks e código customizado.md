@@ -1,0 +1,1 @@
+Há algo certeiro que pude perceber sobre o assunto: caso você se encontre utilizando 10% do framework e 90% de código/design customizado, é um sinal que você criou um grande débito técnico para o seu projeto, fora que a escolha do framework foi feita utilizando mais a emoção do que a razão.

@@ -1,0 +1,5 @@
+- Sabedoria: estudo duas horas no mínimo todo santo dia.
+- Corpo: Faço treinamento funcional duas vezes por semana.
+- Mente: Inicio todas as manhãs com meditação.
+- Energia: Faço acupuntura (quase) todo final de semana.
+- Vícios: Fumo, gosto de cerveja...

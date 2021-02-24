@@ -1,0 +1,3 @@
+O quanto é preciso conhecer das partes internas do seu controle remoto para você conseguir apertar o botão e ligar sua TV? Ou o quanto precisa conhecer os detalhes de engenharia do Google Maps para conseguir utilizar a API deles? Quase nada, correto? Esta é a maravilha do contexto delimitado (bounded context) e desacoplamento.
+
+O software que você está construíndo também precisa ter o contexto delimitado entre suas funções, APIs e camadas para que, quanto menos contexto você precisar manter no ceu cérebro ao mesmo tempo, mais compreensão e clareza você terá nas implementações futuras. Alterações e refatorações irão acontecer com maior velocidade, pois você não terá receio de uma funcionalidade pisar no pé da outra, pois o contexto do que cada uma faz está delimitado.

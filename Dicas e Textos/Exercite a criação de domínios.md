@@ -1,0 +1,3 @@
+- [http://www.martinfowler.com](http://www.martinfowler.com/)
+- [http://dddcommunity.org/tag/eirc-evans/](http://dddcommunity.org/tag/eirc-evans/)
+- [http://www.agileandart.com](http://www.agileandart.com/)
