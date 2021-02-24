@@ -120,6 +120,38 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <p>Todos os textos estavam no meu Notion e não são de minha autoria.</p>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/16Personalities%20(INPT-T)">16Personalities (INPT-T)</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/Cursos">Cursos</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/10%20coisas%20que%20todo%20desenvolvedor%20babaca%20fala.md">10 coisas que todo desenvolvedor babaca fala</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/5%20dicas%20para%20ajudar%20desenvolvedores%20em%202020.md">5 dicas para ajudar desenvolvedores em 2020</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/5%20dicas%20para%20nunca%20esquecer%20uma%20ideia.md">5 dicas para nunca esquecer uma ideia</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/5%20d%C3%BAvidas%20de%20quem%20quer%20iniciar%20a%20carreira%20em%20programa%C3%A7%C3%A3o.md">5 dúvidas de quem quer iniciar a carreira em programação</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/7%20dicas%20para%20novos%20programadores.md">7 dicas para novos programadores</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Aplicativos%20para%20Estudantes.md">Aplicativos para Estudantes</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Clean%20Code:%20Introdu%C3%A7%C3%A3o.md">Clean Code: Introdução</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Clean%20Code:%20O%20que%20%C3%A9%20c%C3%B3digo%20limpo%3F.md">Clean Code: O que é código limpo?</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Comandos%20b%C3%A1sicos%20do%20Vim.md">Comandos básicos do Vim</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Comandos%20para%20Manuten%C3%A7%C3%A3o%20do%20Sistema.md">Comandos para Manutenção do Sistema</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Como%20criar%20um%20Portf%C3%B3lio%20de%20Desenvolvedor.md">Como criar um portfólio de Desenvolvedor</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Como%20desenvolver%20a%20L%C3%93GICA.md">Como desenvolver a LÓGICA</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Como%20escrever%20c%C3%B3digo%20limpo%3F.md">Como escrever código limpo?</a>
+
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Como%20eu%20me%20mantenho%20saud%C3%A1vel%3F.md">Como eu me mantenho saudável?</a>
+
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
