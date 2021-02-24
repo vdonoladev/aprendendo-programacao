@@ -1,0 +1,5 @@
+- GET → Busca
+- POST → Salvar
+- PUT → Alterar
+- DELETE → Deletar
+- PATCH → Alteração específica
