@@ -218,7 +218,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Masonry%20Grid%20CSS%20(2020).md">Masonry Grid CSS (2020)</a>
 
-<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/MongoDB.md"><MongoDB/a>
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/MongoDB.md">MongoDB</a>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/M%C3%A9todos%20HTTP.md">Métodos HTTP</a>
 
