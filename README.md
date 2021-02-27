@@ -198,6 +198,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Frameworks%20e%20c%C3%B3digo%20customizado.md">Frameworks e código customizado</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Git%20-%20Cheat%20Sheets.md">Git - Cheat Sheets</a>
+
 <a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Gloss%C3%A1rio%20da%20Programa%C3%A7%C3%A3o.md">Glossário da Programação</a>
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/blob/master/Dicas%20e%20Textos/Guia%20definitivo%20de%20Vim.md">Guia definitivo de VIM</a>
