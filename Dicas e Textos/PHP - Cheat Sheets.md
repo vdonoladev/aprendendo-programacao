@@ -361,3 +361,50 @@ Vetor associativo com as variáveis de ambiente
 ```php
 $_ENV -> echo $_ENV["USER"];
 ```
+
+## CONSTANTES MÁGICAS
+
+Constantes mágicas mudam dependendo de onde são utilizadas, elas são resolvidas em tempo de compilação.
+
+```php
+__LINE__       // Número da linha do arquivo
+__FILE__       // Caminho e nome do arquivo
+__DIR__        // Diretório do arquivo
+__FUNCTION__   // Nome da função
+__CLASS__      // Nome da classe
+__METHOD__     // Nome do método
+__NAMESPACE__  // Nome do namespace corrente
+```
+
+## FUNÇÕES NUMÉRICAS
+
+Arredondar um número para baixo
+
+```php
+floor($val) -> floor(5.99); // 5
+```
+
+Arredondar um número para cima
+
+```php
+ceil($val) -> floor(5.1); // 6
+```
+
+Arredondar um número para cima
+
+```php
+round($val, $precisao) -> round(5.5); // 6
+```
+
+Retorna o valor absoluto
+
+```php
+abs($val) -> abs(-12); // 12
+```
+
+Formata um número com milhares agrupados
+
+```php
+// number_format(12367.29, 2, ",",",");
+number_format($num, $decimais, $sep_dec, $mil_sep);
+```
