@@ -23,3 +23,11 @@ console.log(x);
 // division assingment
 x /= 2;
 console.log(x);
+
+// remainder assignment
+x %= 2;
+console.log(x);
+
+// exponentiation assignment
+x **= 2;
+console.log(x);
