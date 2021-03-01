@@ -70,6 +70,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/Guia%20estelar%20de%20Programa%C3%A7%C3%A3o">Guia estelar de Programação</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Discover%20-%20Rocketseat/Guias%20estelares/Guia%20estelar%20de%20HTTP">Guia estelar de HTTP</a>
+
 ---
 
 <h3>Digital Innovation One</h3>
