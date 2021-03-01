@@ -5,9 +5,35 @@
     - Você vê o site da Rocketseat
 - Caminho Avançado
     - Você digita a URL: https://rocketseat.com.br
+        - HTTP
+            - Hypertext Transfer Protocol
+            - Função: Trocar mensagens entre computadores
+            - Mensagem - A mensagem é quebrada em diversos pedaços (chunks)
+        - URL
+            - Uniform Resource Locator
+                - Localizador e identificador de um recurso
+                - Recurso, nesse caso, é o site
     - É iniciada uma linha de comunicação através do protocolo HTTP, entre o seu computador (cliente) até o computador que tem a página (servidor)
+        - Cliente
+            - O computador, dispositivo ou aplicativo que fez o pedido
+            - Browser
+        - Servidor
+            - Computador configurado para receber os pedidos e enviar respostas aos pedidos
+        - TCP
+            - Transmission Control Protocol
+            - Função: Garantir que os pacotes cheguem corretamente ao destino
     - O endereço é convertido em um IP (76.76.21.21) através do DNS
+        - IP
+            - Internet Protocol
+            - Função: Endereçamento de computadores
+        - DNS
+            - Domain Name Servers
+            - Função: Converter um Domínio em um endereço de IP
     - Seu pedido está percorrendo diversos proxies
+        - Proxy
+            - Qualquer dispositivo no meio do caminho
+            - Modem, Roteador, outros computadores
+            - Função: Encaminhamento dos pacotes
     - Seu pedido chega até o servidor
     - Servidor analisa seu pedido e te dá uma resposta, neste caso, positiva
     - O caminho de volta é semelhante ao de ida, passando pela linha de comunicação que foi criada
