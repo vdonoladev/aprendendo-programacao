@@ -1,0 +1,40 @@
+- URI
+    - Conceito
+        - Uniform Resource Identifier
+            - Identificar um Recurso
+            - Nome ou Localização
+            - Exemplo
+                - Você é um Recurso
+                - Seu nome
+                - Sua localização
+    - Resource
+        - O alvo do pedido
+        - Qualquer coisa identificável / Entidade
+            - Digital
+                - Email
+                    - mailto
+            - Abstrata
+                - Sessão
+                - Autenticação
+            - Física
+                - Produtos
+                - Usuários
+            - Se podemos identificar, nomear, endereças ou manipular, estamos falando de um recurso
+    - Locator
+        - URL
+            - Uniform Resource Locator
+            - Componentes
+                - Obrigatórios
+                    - Protocolo
+                    - Domínio
+                - Opcionais
+                    - Subdomínio
+                    - Path
+                    - Parametros
+                    - Porta
+                    - Âncora
+            - Exemplos
+                - https://www.rocketseat.com.br/blog
+                - https://www.youtube.com/watch?v=vpYct2npKD8
+                - http://127.0.1:3333/index.html#algumlugar
+    - Name
