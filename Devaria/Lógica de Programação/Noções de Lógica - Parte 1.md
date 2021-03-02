@@ -185,3 +185,40 @@ Quanto mais anotações, mais seu cérebro precisa guardar informações e assim
     - Seja vinda do aplicativo em execução;
     - Seja vinda de algum comando dada pelo ser humano.
 - Nosso trabalho como programadores é entender uma necessidade do mundo real, utilizar nosso raciocínio e lógica de programação para transformar essa necessidade em algo que o computador entenda.
+
+---
+
+# Parte 3
+
+- Principais técnicas
+
+Quais são as principais técnicas para facilitar o trabalho de lógica  de programação?
+
+---
+
+# Facilitar nossa maneira de pensar lógicamente
+
+- Conforme o estudo de lógica de programação foi crescendo, algumas técnicas foram elaboradas para facilitar nosso trabalho de criar soluções lógicas:
+    - Fluxogramas;
+    - Algoritmos;
+    - Pseudo Código;
+    - Diagramas (caso de uso, sequência entre outros).
+
+---
+
+# Algoritmo
+
+- Chupar uma bala
+    - Pegar a bala
+    - Retirar o papel
+    - Chupar a bala
+    - Jogar o papel no lixo
+- Trabalhar pela manhã
+    - Acordar
+    - Tomar banho
+    - Vestir-se
+    - Tomar café
+    - Tirar o carro da garagem
+    - Ir para o trabalho
+
+---
