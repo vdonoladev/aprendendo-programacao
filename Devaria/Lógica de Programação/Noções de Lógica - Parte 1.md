@@ -222,3 +222,24 @@ Quais são as principais técnicas para facilitar o trabalho de lógica  de prog
     - Ir para o trabalho
 
 ---
+
+# Parte 4
+
+- Fluxograma
+
+Uma das técnicas mais visuais para deixarmos nossa solução lógica compreensível para qualquer um.
+
+É um tipo de diagrama, e pode ser entendido como uma representação esquemática de um processo ou algoritmo, muitas vezes feito através de gráficos que ilustram de forma descomplicada a transição de informações entre os elementos que o compõem, ou seja, é a sequência operacional do desenvolvimento de um processo o qual caracteriza: o trabalho que está sendo realizado, o tempo necessário para sua realização, a distância percorrida pelos documentos, quem está fazendo o trabalho e como ele flui entre os participantes desse processo.
+
+- Cada Figura tem um valor de definição;
+- Um Fluxograma sempre segue um fluxo base (entrada, processamento e saída);
+- Um Fluxograma embora visual tem muito menos componentes e técnicas que um algoritmo, por isso ele é uma variação;
+
+---
+
+# Pontos fortes do Fluxograma
+
+- Demonstrar a forma como o código é organizado
+- Visualizar a execução do código dentro de um programa.
+- Mostrar a estrutura de um site ou aplicativo.
+- Entender como usuários navegam um site ou programa.
