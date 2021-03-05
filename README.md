@@ -130,6 +130,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Devaria/Infraestrutura">Infraestrutura</a>
 
+<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Devaria/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o">Lógica de Programação</a>
+
 ---
 
 <h3>Dicas e Textos</h3>
