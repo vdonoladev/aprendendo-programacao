@@ -1,6 +1,6 @@
 // filter, map, reduce
 
-// Filter - Filtrar o Array
+// Filter - Filtrar o Array - Sempre vai retornar um Array com a mesma quantidade de elementos ou menos
 // Map - Modificar o Array
 // Reduce - Reduzir o Array 
 
@@ -20,3 +20,12 @@ const pessoas = [
 	{ nome: 'Rosana', idade: 32 },
 	{ nome: 'Wallace', idade: 47 },
 ];
+
+const pessoasComNomeGrande = pessoas.filter(obj => obj.nome.length >= 5);
+console.log(pessoasComNomeGrande);
+
+const pessoasComMaisDeCinquentaAnos = pessoas.filter(obj => obj.idade > 50);
+console.log(pessoasComMaisDeCinquentaAnos);
+
+const pessoasNomeTerminaComA = pessoas.filter(obj => obj.nome.toLowerCase().endsWith('a'));
+console.log(pessoasNomeTerminaComA);
