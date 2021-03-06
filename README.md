@@ -6,9 +6,6 @@
   </a>
 </p>
 
-___
-
-
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -69,8 +66,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 <h3>
 	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat">Rocketseat</a>
 </h3>
-
----
 
 ## Licença
 
