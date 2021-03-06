@@ -1,0 +1,11 @@
+- GET
+    - Pegar um Recurso
+    - Somente recebe dados
+    - Características
+        - Seguro: SIM
+        - Idempotente: SIM
+        - BODY
+            - Request: NÃO
+            - Response: SIM
+        - Cacheable: SIM
+        - Uso em formulários HTML: SIM
