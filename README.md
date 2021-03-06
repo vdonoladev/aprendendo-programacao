@@ -42,6 +42,34 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Devaria">Devaria</a>
 </h3>
 
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos">Dicas e Textos</a>
+</h3>
+
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One">Digital Innovation One</a>
+</h3>
+
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript">JavaScript</a>
+</h3>
+
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes">Learn X in Y Minutes</a>
+</h3>
+
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP">PHP</a>
+</h3>
+
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python">Python</a>
+</h3>
+
+<h3>
+	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat">Rocketseat</a>
+</h3>
+
 ---
 
 ## Licença
