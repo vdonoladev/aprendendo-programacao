@@ -76,6 +76,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Desenvolvido por <a href="https://github.com/vdonoladev">Víctor Donola Ferreira</a>
