@@ -1,0 +1,12 @@
+- URI
+    - Conceito
+        - Uniform Resource Identifier
+            - Identificar um Recurso
+            - Nome ou Localização
+            - Exemplo
+                - Você é um Recurso
+                - Seu nome
+                - Sua localização
+    - Resource
+    - Locator
+    - Name

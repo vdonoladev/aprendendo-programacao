@@ -1,0 +1,10 @@
+- Servidor
+    - Se apresenta como uma máquina
+    - Preparado para ouvir e processar
+    - Vários servidores em um computador
+    - Resposta
+        - Headers
+            - Status Code
+                - 404
+                - 500
+        - Body

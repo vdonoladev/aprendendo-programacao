@@ -1,0 +1,11 @@
+- HTTP Messages
+    - Request
+    - Response
+    - Mensagens
+    - HTTP/1.1
+        - Legível
+        - Texto
+    - HTTP/2
+        - Estrutura básica
+        - Otimizações
+        - Mesma maneira que a versão 1.1

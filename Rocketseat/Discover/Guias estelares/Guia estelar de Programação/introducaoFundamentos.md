@@ -1,0 +1,1 @@
+- WEB (Rede) - Uma maneira de estruturar trocas de informações entre computadores

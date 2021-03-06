@@ -1,0 +1,29 @@
+# Programar
+
+- O que é?
+    - Algoritmos
+        - Passos para resolver um problema
+        - Sequência lógica
+    - Lógica de Programação
+        - Aplicação dos passos
+        - Construção de Algoritmos
+- Como o computador pense / entende?
+    - Não pensa, só processa e calcula
+    - Só recebe ordens
+        - Linguagem de Programação
+    - Você precisa entender o problema e dar as ordens
+- Dar instruções
+    - Receita de bolo
+    - Dados
+        - Tipos
+            - String
+            - Numérico
+            - Booleano
+    - Manipulação dos dados
+        - Transformação
+    - Exemplos
+        - Fazer um café
+        - Passar na matéria
+        - Nadar
+        - Atravessar a rua
+- Resolver Problemas
