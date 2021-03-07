@@ -1,0 +1,4 @@
+- Headers por Contextos
+    - General
+    - Request headers
+    - Response headers
