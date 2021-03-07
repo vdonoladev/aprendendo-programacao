@@ -1,0 +1,15 @@
+- DELETE
+    - Remover um Recurso
+        - DELETE/posts HTTP/1.1
+        - Status code
+            - 202: Accepted
+            - 204: No content
+            - 200: Ok
+    - Características
+        - Seguro: NÃO
+        - Idempotente: SIM
+        - BODY
+            - Request: POSSIBILIDADE
+            - Response: POSSIBILIDADE
+        - Uso em formulário HTML: NÃO
+        - Cacheable: NÃO
