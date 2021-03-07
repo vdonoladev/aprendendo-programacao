@@ -1,0 +1,12 @@
+- PATCH
+    - Modificação parcial de um recurso
+        - Diferença sobre o PUT?
+        - PATCH/posts/1 HTTP/1.1
+    - Características
+    - Seguro: NÃO
+    - Idempotente: NÃO
+    - BODY
+        - Request: SIM
+        - Response: SIM
+    - Uso em formulários HTML: NÃO
+    - Cacheable: NÃO
