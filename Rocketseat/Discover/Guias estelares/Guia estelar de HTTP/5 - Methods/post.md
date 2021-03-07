@@ -1,0 +1,10 @@
+- POST
+    - Publicar/Cadastrar um Recurso
+    - Características
+        - Seguro: NÃO
+        - Idempotente: NÃO
+        - BODY
+            - Request
+            - Response
+        - Uso em formulários HTML: SIM
+        - Poderá ser cacheable
