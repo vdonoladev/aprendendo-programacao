@@ -1,0 +1,16 @@
+- PUT
+    - Cria um novo ou Atualiza um Recurso
+        - PUT /profile HTTP/1.1
+        - Diferença entre POST?
+        - Criação
+            - Status code 201
+        - Atualização
+            - Status code 204 ou 200
+    - Características
+        - Seguro: NÃO
+        - Idempotente: SIM
+        - BODY
+            - Request: SIM
+            - Response: NÃO
+        - Uso em formulários HTTP: NÃO
+        - Cacheable: NÃO
