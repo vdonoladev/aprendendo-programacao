@@ -6,13 +6,15 @@
 	<title>Minha página</title>
 	<script src="js/jquery-3.6.0.min.js"></script>
 	<script src="js/main.js"></script>
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 </head>
 <body>
-	<input id="cep">
-	<button type="button" onclick="consultaCep()">Consultar</button>
-	<p id="logradouro"></p>
-	<p id="bairro"></p>
-	<p id="localidade"></p>
-	<p id="uf"></p>
+	<nav class="navbar navbar-dark bg-dark">
+		<a class="navbar-brand text-white m-sm-3">Consulta CEP</a>
+    <div class="d-flex m-lg-3 my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="CEP" id="cep">
+      <button class="btn btn-outline-success my-2 my-sm-0" onclick="consultaCep()">Buscar</button>
+    </div>
+	</nav>
 </body>
 </html>
