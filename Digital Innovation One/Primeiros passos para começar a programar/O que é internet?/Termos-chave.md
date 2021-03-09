@@ -1,0 +1,38 @@
+- download/upload
+- navegador
+- banda larga
+- cache
+- crack
+- email
+- emoticons/emoji
+- gif/jpg
+- host
+- HTML
+- HTTP
+- ícone
+- link
+- login/logon
+- logout/logoff
+- mp3
+- multimídia
+- nick
+- online/offline
+- pixel
+- spam
+- URL
+- vírus
+- backup
+- blog
+- (cyber) bullying
+- 3g/4g/5g
+- cookies
+- firewall
+- IP
+- keylogger
+- phishing
+- click bait
+- Fake News
+- podcast
+- vlog
+- pop-up
+- youtuber
