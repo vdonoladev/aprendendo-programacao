@@ -32,7 +32,7 @@ Compreender a acessibilidade significa que podemos construir serviços que funci
 - **Utilidade -** A Prototipagem é útil, por exemplo, quando é necessário melhorar a experiência dos usuários (UX), atualizar modelos de negócios e criar novos produtos ou serviços. Em um projeto de longa duração, pode ser refeita ao longo do processo. Depois dos testes, é possível que seja necessário reenquadrar os protótipos e retestá-los
 - **Fidelidade do protótipo -** Um protótipo pode ser desde uma representação conceitual ou análoga da solução (baixa fidelidade), passando por aspectos da ideia, até a construção de algo o mais próximo possível da solução final (alta fidelidade).
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81153892-9ad7-4bdc-82b0-fb4f9088fcaa/Web_capture_9-3-2021_73114_web.digitalinnovation.one.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81153892-9ad7-4bdc-82b0-fb4f9088fcaa/Web_capture_9-3-2021_73114_web.digitalinnovation.one.jpeg)
+    ![Web capture_9-3-2021_73114_web digitalinnovation one](https://user-images.githubusercontent.com/56196766/110458630-bf776280-80aa-11eb-800c-112080289dd9.jpeg)
 
     ## Portfólio, Clientes e Apresentação
 
