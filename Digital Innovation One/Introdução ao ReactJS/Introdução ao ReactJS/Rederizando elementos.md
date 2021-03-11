@@ -10,3 +10,13 @@
 - Nenhum componente pai ou filho devem saber se outro componente possui estado ou não.
 - O estado é apenas local ao componente e caso seja necessário enviar algum atributo para outro então é feito via props.
 
+# Ecossistema
+
+- React Router
+- Redux
+- Material UI
+- Ant-Design
+- Storybook
+- Gatsby
+- Jest
+- React i18n Next
