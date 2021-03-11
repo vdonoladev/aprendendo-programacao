@@ -9,7 +9,6 @@
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#books-atividades">Atividades</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
 </h3>
@@ -21,17 +20,6 @@ Repositório com anotações e exercícios em programação
 ## :interrobang: Motivo
 
 Um lugar para guardar todas as minhas anotações e exercícios/códigos
-
-## :rocket: Tecnologias Utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- HTML
-- CSS
-- Python
-- PHP
-- JavaScript
-- Shell Script
 
 ## :books: Atividades
 
