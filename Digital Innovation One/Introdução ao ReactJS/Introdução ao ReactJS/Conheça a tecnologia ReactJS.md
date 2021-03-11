@@ -12,3 +12,14 @@
 - 2013 - Anúncio para liberação OpenSource na JSConf US
 - 2015 - React Native
 - 2015 - UWP (Universal Windows Platform)
+
+- React é uma biblioteca e não um framework
+- A principal função é a criação da interface para o usuário
+
+- React é uma linguagem declarativa
+- Declarativa vs Imperativa
+- O React está preocupado apenas com o que é exibido na interface do usuário
+
+- Pode ser utilizado em qualquer lugar
+
+- React é baseado em componentes
