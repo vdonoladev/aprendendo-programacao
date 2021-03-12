@@ -16,4 +16,20 @@ $categorias[] = 'Adolescente';
 $categorias[] = 'Adulto';
 $categorias[] = 'Idoso';
 
+$nome = 'Eduardo';
+$idade = 25;
+
+if($idade >= 6 && $idade <= 12) 
+{
+	echo "Infantil";
+}
+else if ($idade >= 13 && $idade <= 18)
+{
+	echo "Adolescente";
+}
+else
+{
+	echo "Adulto";
+}
+
 ?>
