@@ -80,7 +80,7 @@ export default class TerminalController {
     }
     async initializeTable(eventEmitter) {
         const components = new ComponentsBuilder()
-            .setScreen({ title: 'HackerChat - Erick Wendel' })
+            .setScreen({ title: 'HackerChat' })
             .setLayoutComponent()
             .setInputComponent(this.#onInputReceived(eventEmitter))
             .setChatComponent()
