@@ -67,3 +67,14 @@ const p1 = criaPessoa('Víctor', 'Donola Ferreira');
 console.log(p1.nomeCompleto);
 
 // Constructor functions
+function Pessoa(nome, sobrenome) {
+	this.nome = nome;
+	this.sobrenome = sobrenome;
+}
+
+// {} <- this -> this
+
+const p2 = new Pessoa('Víctor', 'Donola Ferreira');
+console.log(p2);
+
+// Classes
