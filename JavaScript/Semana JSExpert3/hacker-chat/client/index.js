@@ -1,6 +1,6 @@
 /*
 node index.js \
-    --username erickwendel \
+    --username vdonoladev \
     --room sala01 \
     --hostUri localhost
 */
