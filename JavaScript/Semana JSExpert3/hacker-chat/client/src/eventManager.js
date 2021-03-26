@@ -19,7 +19,20 @@ export default class EventManager {
         connectedUsers.forEach(({ id, userName }) => this.#allUsers.set(id, userName))
         this.#updateUsersComponent()
     }
+    disconnectUser(user) {
+        const { userName, id } = user
+        this.#allUsers.delete(id)
 
+        this.#updateActivityLogComponent(`${userName} left!`)
+        this.#updateUsersComponent()
+    }
+
+    message(message) {
+        this.componentEmitter.emit(
+            constants.events.app.MESSAGE_RECEIVED,
+            message
+        )
+    }
     newUserConnected(message) {
         const user = message
         this.#allUsers.set(user.id, user.userName)

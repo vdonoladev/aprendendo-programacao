@@ -1,10 +1,30 @@
+#!/usr/bin/env node
+
+
 /*
+
+    chmod +x index.js
+
+*/
+
+/*
+
+npm i -g @vdonoladev/hacker-chat-client
+
+npm unlink -g @vdonoladev/hacker-chat-client
+hacker-chat \
+    --username vdonoladev \
+    --room sala01
+
+./index.js \
+    --username vdonoladev \
+    --room sala01
+
 node index.js \
     --username vdonoladev \
     --room sala01 \
     --hostUri localhost
 */
-
 
 import Events from 'events'
 import CliConfig from './src/cliConfig.js';

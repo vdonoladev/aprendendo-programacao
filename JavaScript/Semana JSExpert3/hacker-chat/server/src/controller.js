@@ -37,7 +37,7 @@ export default class Controller {
         this.broadCast({
             socketId,
             roomId,
-            message: { id: socketId, userName: userData.userName},
+            message: { id: socketId, userName: userData.userName },
             event: constants.event.NEW_USER_CONNECTED,
         })
     }
@@ -46,12 +46,25 @@ export default class Controller {
         const usersOnRoom = this.#rooms.get(roomId)
 
         for (const [key, user] of usersOnRoom) {
-            if(!includeCurrentSocket && key === socketId) continue;
+            if (!includeCurrentSocket && key === socketId) continue;
 
             this.socketServer.sendMessage(user.socket, event, message)
         }
 
     }
+    message(socketId, data) {
+        const { userName, roomId } = this.#users.get(socketId)
+
+        this.broadCast({
+            roomId,
+            socketId,
+            event: constants.event.MESSAGE,
+            message: { userName, message: data },
+            includeCurrentSocket: true,
+        })
+
+    }
+
     #joinUserOnRoom(roomId, user) {
         const usersOnRoom = this.#rooms.get(roomId) ?? new Map()
         usersOnRoom.set(user.id, user)
@@ -60,9 +73,27 @@ export default class Controller {
         return usersOnRoom
     }
 
+    #logoutUser(id, roomId) {
+        this.#users.delete(id)
+        const usersOnRoom = this.#rooms.get(roomId)
+        usersOnRoom.delete(id)
+
+        this.#rooms.set(roomId, usersOnRoom)
+    }
+
     #onSocketClosed(id) {
-        return data => {
-            console.log('onSocketClosed', id)
+        return _ => {
+            const { userName, roomId } = this.#users.get(id)
+            console.log(userName, 'diconnected', id)
+            this.#logoutUser(id, roomId)
+
+            this.broadCast({
+                roomId,
+                message: { id, userName },
+                socketId: id,
+                event: constants.event.DISCONNECT_USER,
+            })
+
         }
     }
     #onSocketData(id) {
