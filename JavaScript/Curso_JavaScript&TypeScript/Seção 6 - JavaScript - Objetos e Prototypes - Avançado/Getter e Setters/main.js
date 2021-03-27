@@ -5,9 +5,10 @@ function Produto(nome, preco, estoque) {
 
 	Object.defineProperty(this, 'estoque', {
 		enumerable: true,
-		value: estoque,
-		writable: true,
-		configurable: true
+		configurable: true,
+		get: function() {
+			return estoque;
+		}
 	});
 }
 
