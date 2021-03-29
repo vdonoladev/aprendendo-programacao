@@ -240,3 +240,31 @@ Quando usar: Quando você possui dados comuns entre os registros em uma tabela q
 **Relacionamento VÁRIOS PRA VÁRIOS (N:N)**
 
 Quando um ou mais registros de uma entidade se relacionam com um ou mais registros de outra entidade.
+
+---
+
+# Parte 4
+
+- **Repassando o Modelo Finalizado**
+- **Chaves em um banco de dados**
+- **Aplicando as chaves nas cardinalidades**
+
+---
+
+# Banco de dados relacional
+
+**Chaves**
+
+Em um banco relacional temos dois tipos de chaves, sendo uma primária e a outra estrangeira.
+
+Para melhor entendimento vamos utilizar as entidades de Produto e Marca em formato de tabela.
+
+**Chave primária**
+
+Conjunto de um ou mais campos que não se repetem, tornando uma chave única de identificação.
+
+São usados como índice de referência para relacionamento entre tabelas.
+
+**Chave estrangeria**
+
+Somente existe quando há um relacionamento entre tabelas, pois é uma chave de referência da tabela relacionada.
