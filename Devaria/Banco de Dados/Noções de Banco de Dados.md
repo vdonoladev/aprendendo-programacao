@@ -198,3 +198,45 @@ São um conjunto de dados inseridos nas tabelas.
 # Parte 3
 
 - **O que é Relacionamento entre as Entidades**
+- **Relacionando as Entidades**
+- **Finalizando o MER**
+
+---
+
+# Banco de dados relacional
+
+**Relacionamento entre tabelas**
+
+- **O que é?**
+
+A ligação entre entidades que contém atributos incomum.
+
+**Exemplo:** A entidade de produtos com a entidade de marcas, pois um produto sempre possui a mesma marca.
+
+- **Por quê relacionar tabelas?**
+
+Deixar os dados organizados e normalizados, evitando duplicações, contudo gerando integridade.
+
+## Tipos de relacionamento
+
+**Ou também conhecido como Cardinalidades**
+
+- Um para um (1:1)
+- Um para vários (1:N)
+- Vários para vários (N:N)
+
+## Cardinalidades
+
+**Relacionamento UM PRA UM (1:1)**
+
+Quando o relacionamento é feito entre dois atributos chaves primárias.
+
+Quando usar: Quando você precisa compor dados para um grupo de registros específicos, como uma composição.
+
+**Relacionamento UM PRA VÁRIOS (1:N)**
+
+Quando usar: Quando você possui dados comuns entre os registros em uma tabela que pertence a outra entidade.
+
+**Relacionamento VÁRIOS PRA VÁRIOS (N:N)**
+
+Quando um ou mais registros de uma entidade se relacionam com um ou mais registros de outra entidade.
