@@ -130,3 +130,71 @@ Conhecida pela maioria das linguagens como "datetime", é um tipo de dados que s
     - Data e hora da aula Live Devaria - 15/03/2021 19:30:00.000
     - Data de nascimento - 15/09/1987
     - Quantidade de tempo da Live - 03:25:58.000
+
+---
+
+# Parte 2
+
+- **O que é um banco de dados relacional**
+- **Modelo de Entidade Relacional (MER)**
+- **Entidades e Atributo**
+
+---
+
+# Banco de dados relacional
+
+- **Dados estruturados em tabelas**
+
+Os dados são armazenados em tabelas que constituem seus campos (colunas) e seus registros (linhas).
+
+- **Relacionamento entre as tabelas**
+
+As tabelas se relacionam através de chaves, como por exemplo uma tabela de carros cadastrados e outra tabela de cores.
+
+**Tabelas**
+
+Alguma entidade organizada em colunas e linhas de forma estruturada.
+
+**Colunas / Atributos**
+
+São campos com um formato especificado para receber dados.
+
+**Registros**
+
+São um conjunto de dados inseridos nas tabelas.
+
+# MER - Modelo de Entidade Relacional
+
+- Método para modelar um banco de dados relacional.
+- Antes de elaborar um banco de dados novo geralmente é realizado o MER.
+- Modelo simples e de fácil entendimento para a área de negócio e técnica.
+
+## Entidades
+
+- A entidade é um conjunto de informações sobre um determinado conceito.
+- Todas as entidades possuem **Atributos**, que são campos que referenciam a entidade.
+
+## Elaborar um MER
+
+- Iremos montar um modelo de entidade relacional de acordo com as características da empresa abaixo:
+    - A empresa **Candies** é uma loja de bairro que vende doces industriais de várias marcas.
+    - A Candies compra seus produtos em distribuidores especializados.
+    - Os clientes geralmente compram mais que um produto da loja.
+    - A venda da loja para o cliente pode ser paga de diversas formas de pagamento.
+    - Todo cliente pode ter um plano de fidelidade caso tenha preferência, acumulando pontos para futuros descontos.
+
+## Elementos da entidade
+
+**Entidade** - Representação de uma entidade
+
+**Atributo** - Propriedades da entidade
+
+**Atributo Multivalorado** - Atributo que pode conter mais que um valor
+
+**Atributo chave** - Atributo único que representa a entidade
+
+---
+
+# Parte 3
+
+- **O que é Relacionamento entre as Entidades**
