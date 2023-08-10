@@ -55,7 +55,10 @@ Um lugar para guardar todas as minhas anotações e exercícios/códigos
 	<a href="https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat">Rocketseat</a>
 </h3>
 
+<h3>
+	<a href="#">Templates</a>
+</h3>
+
 ## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
