@@ -33,6 +33,11 @@ Criei este repositório para **organizar e documentar minha jornada como desenvo
 - [Lógica de Programação](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Devaria/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o)
 
 ### 📝 [Dicas e Textos](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos)
+- [**16Personalities (INPT-T**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/16Personalities%20(INPT-T))
+  - [**Estratégias**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/16Personalities%20(INPT-T)/Estrat%C3%A9gias)
+  - [**Funções**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/16Personalities%20(INPT-T)/Fun%C3%A7%C3%B5es)
+  - [**Personalidade (Lógico Turbulento)**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/16Personalities%20(INPT-T)/Personalidade%20(L%C3%B3gico%20Turbulento))
+- [**Cursos**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Dicas%20e%20Textos/Cursos)
 
 ### 💻 [Digital Innovation One](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One)
 - [Conceitos de Responsividade e UX](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20usu%C3%A1rio)
