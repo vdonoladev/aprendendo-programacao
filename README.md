@@ -53,10 +53,27 @@ Cada diretório contém estudos e projetos práticos relacionados a diferentes f
   - [**Primemiros passos para começar a programar**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Primeiros%20passos%20para%20come%C3%A7ar%20a%20programar)
   - [**Projetos ágeis com SCRUM**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Digital%20Innovation%20One/Projetos%20%C3%A1geis%20com%20SCRUM)
 - [**JavaScript**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript)
+  - [**Curso JavaScript & TypeScript**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript%26TypeScript)
+  - [**Curso JavaScript Rocketseat**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Curso_JavaScript_Rocketseat)
+  - [**Pré-Semana JSExpert**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Pr%C3%A9%20SemanaJSExpert/Live1%20-%20Trabalhando%20com%20os%20Design%20Patterns%20Fluent%20Interface%20e%20Builder)
+  - [**Semana JSExpert**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript/Semana%20JSExpert3/hacker-chat)
 - [**Learn X in Y Minutes**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Learn%20X%20in%20Y%20Minutes)
 - [**PHP**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP)
+  - [**Curso Completo de PHP7**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/PHP/Curso%20Completo%20de%20PHP%207)
 - [**Python**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python)
+  - [**Exercícios em Python**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Exerc%C3%ADcios_Python)
+  - [**Programação em Python Essencial**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Python/Programa%C3%A7%C3%A3o_em_Python_Essencial)
 - [**Rocketseat**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat)
+  - [**CodeDrops**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/CodeDrops)
+    - [**Criando função Debounce do Zero com JavaScript | CodeDrops 25**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/CodeDrops/Criando%20fun%C3%A7%C3%A3o%20Debounce%20do%20Zero%20com%20JavaScript%20%7C%20CodeDrops25)
+    - [**Transição de imagens com CSS3 e JavaScript | CodeDrops 26**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/CodeDrops/Transi%C3%A7%C3%A3o%20de%20imagens%20com%20CSS3%20e%20JavaScript%20puro%20%7C%20CodeDrops26)
+    - [**Validação de forms customizados com HTML e JavaScript | CodeDrops 32**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/CodeDrops/Valida%C3%A7%C3%A3o%20de%20forms%20customizada%20com%20HTML%20e%20JavaScript%20%7C%20CodeDrops32)
+  - [**Discover**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Discover)
+    - [**Guias estelares**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Discover/Guias%20estelares)
+    - [**Formulários de outro planeta**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Discover/Prepara%C3%A7%C3%A3o%20de%20astronautas/Formul%C3%A1rios%20de%20outro%20planeta)
+  - [**Masterclass**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Masterclass)
+  - [**YouTube | Aulas**](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Youtube%20%7C%20Aulas)
+  - 
 
 ---
 
