@@ -90,6 +90,9 @@ Criei este repositório para **organizar e documentar minha jornada como desenvo
 - [Transição de Imagens com CSS3 e JavaScript | CodeDrops 26](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/CodeDrops/Transi%C3%A7%C3%A3o%20de%20imagens%20com%20CSS3%20e%20JavaScript%20puro%20%7C%20CodeDrops26)
 - [Validação de Forms Customizados | CodeDrops 32](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/CodeDrops/Valida%C3%A7%C3%A3o%20de%20forms%20customizada%20com%20HTML%20e%20JavaScript%20%7C%20CodeDrops32)
 
+#### Cursos
+- [C# e .NET - Curso Introdutório](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Cursos/C%23%20e%20.NET%20-%20Curso%20Introdut%C3%B3rio)
+
 #### Discover
 - [Guias Estelares](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Discover/Guias%20estelares)
 - [Formulários de Outro Planeta](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Rocketseat/Discover/Prepara%C3%A7%C3%A3o%20de%20astronautas/Formul%C3%A1rios%20de%20outro%20planeta)
