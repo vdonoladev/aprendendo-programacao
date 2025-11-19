@@ -2,17 +2,18 @@
 
 $name = "Víctor";
 
-$html = "<!DOCTYPE html>
+$head = "<!DOCTYPE html>
 <html>
 
 <head>
   <title>Site PHP de $name</title>
-</head>
+</head>";
 
-<body>
-  <h1>Meu nome é $name!</h1>
-</body>
-
+$body = "
+  <body>
+    <h1>Meu nome é $name!</h1>
+  </body>
 </html>";
 
+$html = $head . $body;
 echo $html;
