@@ -3,21 +3,36 @@
 ```
 ██████╗ ███████╗██╗   ██╗      ██╗ ██████╗ ██╗   ██╗██████╗ ███╗   ██╗███████╗██╗   ██╗
 ██╔══██╗██╔════╝██║   ██║      ██║██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔════╝╚██╗ ██╔╝
-██║  ██║█████╗  ██║   ██║      ██║██║   ██║██║   ██║██████╔╝██╔██╗ ██║█████╗   ╚████╔╝ 
-██║  ██║██╔══╝  ╚██╗ ██╔╝      ██║██║   ██║██║   ██║██╔══██╗██║╚██╗██║██╔══╝    ╚██╔╝  
-██████╔╝███████╗ ╚████╔╝   ██████║╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║███████╗   ██║   
-╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝  
+██║  ██║█████╗  ██║   ██║      ██║██║   ██║██║   ██║██████╔╝██╔██╗ ██║█████╗   ╚████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝      ██║██║   ██║██║   ██║██╔══██╗██║╚██╗██║██╔══╝    ╚██╔╝
+██████╔╝███████╗ ╚████╔╝   ██████║╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║███████╗   ██║
+╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝
                                      L O G
 ```
 
 **Portfólio de Aprendizado em Desenvolvimento de Software**
 
 [![Status](https://img.shields.io/badge/status-em_progresso-22C55E?style=flat-square)](.)
+[![Site](https://img.shields.io/badge/site-GitHub_Pages-8B5CF6?style=flat-square)](https://vdonoladev.github.io/dev-journey-log/)
 [![Tecnologias](https://img.shields.io/badge/tecnologias-10+-3B82F6?style=flat-square)](.)
 [![Licença](https://img.shields.io/badge/licença-MIT-F8952D?style=flat-square)](LICENSE)
 [![Plataformas](https://img.shields.io/badge/plataformas-5-8B5CF6?style=flat-square)](.)
 
 </div>
+
+---
+
+## `$ open site/`
+
+> **Acesse o site:** [vdonoladev.github.io/dev-journey-log](https://vdonoladev.github.io/dev-journey-log/)
+
+O repositório inclui um site de estudos interativo na pasta `docs/`. Para publicar via **GitHub Pages**:
+
+1. Vá em **Settings** do repositório
+2. Navegue para **Pages** (no menu lateral)
+3. Em **Source**, selecione o branch `main` e a pasta `/docs`
+4. Clique em **Save**
+5. Aguarde alguns minutos e o site estara disponivel em `https://vdonoladev.github.io/dev-journey-log/`
 
 ---
 
@@ -29,7 +44,7 @@ Aqui você encontra exercícios resolvidos, notas de estudo, projetos práticos 
 
 ```
 📖 diário técnico     →  registro contínuo do que aprendo
-🗂️ base de consulta   →  referência rápida para conceitos e implementações  
+🗂️ base de consulta   →  referência rápida para conceitos e implementações
 📈 histórico          →  prova concreta de crescimento como desenvolvedor
 ```
 
@@ -37,14 +52,14 @@ Aqui você encontra exercícios resolvidos, notas de estudo, projetos práticos 
 
 ## `$ ls tecnologias/`
 
-| Categoria | Tecnologias |
-|-----------|-------------|
-| **Frontend** | HTML · CSS · JavaScript ES6+ · ReactJS · jQuery |
-| **Backend** | PHP 7/8 · Python · Node.js · Flask · Django |
-| **Dados** | SQL · Knex.js |
-| **Linguagens** | JavaScript · TypeScript · Python · PHP · C# |
-| **Ferramentas** | Git · Bash · Vim · TMUX |
-| **Conceitos** | REST APIs · SCRUM · Arquitetura de Sistemas · Responsividade |
+| Categoria       | Tecnologias                                                  |
+| --------------- | ------------------------------------------------------------ |
+| **Frontend**    | HTML · CSS · JavaScript ES6+ · ReactJS · jQuery              |
+| **Backend**     | PHP 7/8 · Python · Node.js · Flask · Django                  |
+| **Dados**       | SQL · Knex.js                                                |
+| **Linguagens**  | JavaScript · TypeScript · Python · PHP · C#                  |
+| **Ferramentas** | Git · Bash · Vim · TMUX                                      |
+| **Conceitos**   | REST APIs · SCRUM · Arquitetura de Sistemas · Responsividade |
 
 ---
 
@@ -68,19 +83,19 @@ DevOps / Infra           ████░░░░░░░░░░░░░░�
 
 **CodeDrops**
 
-| Episódio | Tema |
-|----------|------|
-| [#25](./Rocketseat/CodeDrops/Criando%20função%20Debounce%20do%20Zero%20com%20JavaScript%20%7C%20CodeDrops25) | Função Debounce com JavaScript |
-| [#26](./Rocketseat/CodeDrops/Transição%20de%20imagens%20com%20CSS3%20e%20JavaScript%20puro%20%7C%20CodeDrops26) | Transição de Imagens com CSS3 |
-| [#32](./Rocketseat/CodeDrops/Validação%20de%20forms%20customizada%20com%20HTML%20e%20JavaScript%20%7C%20CodeDrops32) | Validação de Formulários |
+| Episódio                                                                                                             | Tema                           |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [#25](./Rocketseat/CodeDrops/Criando%20função%20Debounce%20do%20Zero%20com%20JavaScript%20%7C%20CodeDrops25)         | Função Debounce com JavaScript |
+| [#26](./Rocketseat/CodeDrops/Transição%20de%20imagens%20com%20CSS3%20e%20JavaScript%20puro%20%7C%20CodeDrops26)      | Transição de Imagens com CSS3  |
+| [#32](./Rocketseat/CodeDrops/Validação%20de%20forms%20customizada%20com%20HTML%20e%20JavaScript%20%7C%20CodeDrops32) | Validação de Formulários       |
 
 **Masterclass**
 
-| Episódio | Tema |
-|----------|------|
-| [#08](./Rocketseat/Masterclass/Responsividade%20na%20Prática%20%7C%20Masterclass08) | Responsividade na Prática |
+| Episódio                                                                                                 | Tema                         |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [#08](./Rocketseat/Masterclass/Responsividade%20na%20Prática%20%7C%20Masterclass08)                      | Responsividade na Prática    |
 | [#11](./Rocketseat/Masterclass/Node.js%3A%20Iniciando%20da%20teoria%20à%20prática%20%7C%20Masterclass11) | Node.js: Da Teoria à Prática |
-| [#13](./Rocketseat/Masterclass/SQL%20no%20Node.js%20com%20Knex.js%20%7C%20Masterclass13) | SQL no Node.js com Knex.js |
+| [#13](./Rocketseat/Masterclass/SQL%20no%20Node.js%20com%20Knex.js%20%7C%20Masterclass13)                 | SQL no Node.js com Knex.js   |
 
 **Cursos & YouTube**
 
@@ -96,42 +111,42 @@ DevOps / Infra           ████░░░░░░░░░░░░░░�
 <details>
 <summary><strong>💻 Digital Innovation One</strong></summary>
 
-| Módulo | Descrição |
-|--------|-----------|
-| [Responsividade e UX](./Digital%20Innovation%20One/Conceitos%20de%20responsividade%20e%20experiência%20do%20usuário) | Design responsivo e UX |
-| [Python + Flask + REST API](./Digital%20Innovation%20One/Desenvolvimento%20Avançado%20Python%20-%20Flask%20e%20REST%20API) | Backend com Python |
-| [JavaScript ES6](./Digital%20Innovation%20One/Desenvolvimento%20avançado%20com%20JavaScript%20ES6) | JS moderno e avançado |
-| [PHP + Formulários e Sessões](./Digital%20Innovation%20One/Formulários%20com%20condicionais%20e%20sessões%20com%20PHP) | Backend com PHP |
-| [Arquitetura de Sistemas](./Digital%20Innovation%20One/Fundamentos%20de%20Arquitetura%20de%20Sistemas) | Fundamentos de arquitetura |
-| [Python + Django](./Digital%20Innovation%20One/Internet,%20Banco%20de%20Dados%20com%20Python%20e%20Django) | Web dev com Django |
-| [Introdução ao PHP](./Digital%20Innovation%20One/Introdução%20ao%20PHP) | Fundamentos de PHP |
-| [ReactJS](./Digital%20Innovation%20One/Introdução%20ao%20ReactJS/Introdução%20ao%20ReactJS) | Introdução ao React |
+| Módulo                                                                                                                       | Descrição                                 |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [Responsividade e UX](./Digital%20Innovation%20One/Conceitos%20de%20responsividade%20e%20experiência%20do%20usuário)         | Design responsivo e UX                    |
+| [Python + Flask + REST API](./Digital%20Innovation%20One/Desenvolvimento%20Avançado%20Python%20-%20Flask%20e%20REST%20API)   | Backend com Python                        |
+| [JavaScript ES6](./Digital%20Innovation%20One/Desenvolvimento%20avançado%20com%20JavaScript%20ES6)                           | JS moderno e avançado                     |
+| [PHP + Formulários e Sessões](./Digital%20Innovation%20One/Formulários%20com%20condicionais%20e%20sessões%20com%20PHP)       | Backend com PHP                           |
+| [Arquitetura de Sistemas](./Digital%20Innovation%20One/Fundamentos%20de%20Arquitetura%20de%20Sistemas)                       | Fundamentos de arquitetura                |
+| [Python + Django](./Digital%20Innovation%20One/Internet,%20Banco%20de%20Dados%20com%20Python%20e%20Django)                   | Web dev com Django                        |
+| [Introdução ao PHP](./Digital%20Innovation%20One/Introdução%20ao%20PHP)                                                      | Fundamentos de PHP                        |
+| [ReactJS](./Digital%20Innovation%20One/Introdução%20ao%20ReactJS/Introdução%20ao%20ReactJS)                                  | Introdução ao React                       |
 | [jQuery e Ajax](./Digital%20Innovation%20One/Introdução%20à%20biblioteca%20JQuery/Aprenda%20o%20que%20é%20jQuery%20e%20Ajax) | Manipulação DOM e requisições assíncronas |
-| [JavaScript ES6 Essencial](./Digital%20Innovation%20One/JavaScript%20ES6%20essencial) | Conceitos essenciais ES6 |
-| [Primeiros Passos](./Digital%20Innovation%20One/Primeiros%20passos%20para%20começar%20a%20programar) | Introdução à programação |
-| [SCRUM](./Digital%20Innovation%20One/Projetos%20ágeis%20com%20SCRUM) | Metodologias ágeis |
+| [JavaScript ES6 Essencial](./Digital%20Innovation%20One/JavaScript%20ES6%20essencial)                                        | Conceitos essenciais ES6                  |
+| [Primeiros Passos](./Digital%20Innovation%20One/Primeiros%20passos%20para%20começar%20a%20programar)                         | Introdução à programação                  |
+| [SCRUM](./Digital%20Innovation%20One/Projetos%20ágeis%20com%20SCRUM)                                                         | Metodologias ágeis                        |
 
 </details>
 
 <details>
 <summary><strong>📚 Devaria</strong></summary>
 
-| Módulo | Descrição |
-|--------|-----------|
-| [Banco de Dados](./Devaria/Banco%20de%20Dados) | Fundamentos e práticas de BD |
-| [Conceito de Sistemas](./Devaria/Conceito%20de%20Sistemas) | Teoria e modelagem de sistemas |
-| [Infraestrutura](./Devaria/Infraestrutura) | Conceitos de infra e redes |
-| [Introdução e Preparatório](./Devaria/Introdução%20e%20Preparatório) | Fundamentos iniciais |
-| [Lógica de Programação](./Devaria/Lógica%20de%20Programação) | Algoritmos e lógica base |
+| Módulo                                                               | Descrição                      |
+| -------------------------------------------------------------------- | ------------------------------ |
+| [Banco de Dados](./Devaria/Banco%20de%20Dados)                       | Fundamentos e práticas de BD   |
+| [Conceito de Sistemas](./Devaria/Conceito%20de%20Sistemas)           | Teoria e modelagem de sistemas |
+| [Infraestrutura](./Devaria/Infraestrutura)                           | Conceitos de infra e redes     |
+| [Introdução e Preparatório](./Devaria/Introdução%20e%20Preparatório) | Fundamentos iniciais           |
+| [Lógica de Programação](./Devaria/Lógica%20de%20Programação)         | Algoritmos e lógica base       |
 
 </details>
 
 <details>
 <summary><strong>🏛️ Gran Faculdade / Gran Cursos</strong></summary>
 
-| Módulo | Descrição |
-|--------|-----------|
-| [Análise e Desenvolvimento de Sistemas](./Gran%20Faculdade/Análise%20e%20Desenvolvimento%20de%20Sistemas) | Graduação em ADS |
+| Módulo                                                                                                         | Descrição        |
+| -------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Análise e Desenvolvimento de Sistemas](./Gran%20Faculdade/Análise%20e%20Desenvolvimento%20de%20Sistemas)      | Graduação em ADS |
 | [Agente de Tecnologia — BB 2026](./Gran%20Cursos/Concurso%20Banco%20do%20Brasil%202026%20-%20Agente%20de%20TI) | Concurso público |
 
 </details>
@@ -206,6 +221,6 @@ Sugestões, correções e recomendações de recursos são bem-vindas — abra u
 
 `MIT License` · feito com 💻 e muita curiosidade
 
-*"A jornada de mil milhas começa com um único passo."*
+_"A jornada de mil milhas começa com um único passo."_
 
 </div>
