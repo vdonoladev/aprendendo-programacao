@@ -13,26 +13,11 @@
 **Portfólio de Aprendizado em Desenvolvimento de Software**
 
 [![Status](https://img.shields.io/badge/status-em_progresso-22C55E?style=flat-square)](.)
-[![Site](https://img.shields.io/badge/site-GitHub_Pages-8B5CF6?style=flat-square)](https://vdonoladev.github.io/dev-journey-log/)
 [![Tecnologias](https://img.shields.io/badge/tecnologias-16+-3B82F6?style=flat-square)](.)
 [![Licença](https://img.shields.io/badge/licença-MIT-F8952D?style=flat-square)](LICENSE)
 [![Plataformas](https://img.shields.io/badge/plataformas-6-8B5CF6?style=flat-square)](.)
 
 </div>
-
----
-
-## `$ open site/`
-
-> **Acesse o site:** [vdonoladev.github.io/dev-journey-log](https://vdonoladev.github.io/dev-journey-log/)
-
-O repositório inclui um site de estudos interativo na pasta `docs/`. Para publicar via **GitHub Pages**:
-
-1. Vá em **Settings** do repositório
-2. Navegue para **Pages** (no menu lateral)
-3. Em **Source**, selecione o branch `main` e a pasta `/docs`
-4. Clique em **Save**
-5. Aguarde alguns minutos e o site estará disponível em `https://vdonoladev.github.io/dev-journey-log/`
 
 ---
 
@@ -682,8 +667,6 @@ DevOps / Infra           ████░░░░░░░░░░░░░░�
 ## `$ git log --oneline`
 
 Este repositório é um registro pessoal de estudos em constante evolução.
-
-Sugestões, correções e recomendações de recursos são bem-vindas — abra uma **Issue** ou envie um **Pull Request**.
 
 ---
 
